@@ -39,13 +39,13 @@ npm install
 
 ### Option A: Direct Node Execution
 
-Pass the name of any .md file in your directory to process it:
+Pass the name of any `.md` file in your directory to process it:
 
 ```bash
 node index.js sample.md
 ```
 
-If no filename is specified, it defaults to sample.md:
+If no filename is specified, it defaults to `sample.md`:
 
 ```bash
 node index.js
@@ -61,7 +61,7 @@ To run the converter using the custom command md2html from anywhere in your term
 sudo npm link
 ```
 
-(Or run npm link directly if your npm global path is configured without sudo).
+(Or `run npm link` directly if your npm global path is configured without sudo).
 
 ### 2. Run the command from any folder:
 
