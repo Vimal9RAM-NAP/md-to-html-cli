@@ -71,13 +71,15 @@ md2html sample.md
 
 ## 📁 Output Structure
 
-When converting a file like sample.md, the tool generates a matching sample.html file in the same directory:
+When converting a file like `sample.md`, the tool generates a matching `sample.html` file in the same directory:
 
+```text
 md-to-html-cli/
 ├── index.js
 ├── package.json
 ├── sample.md      <-- Input
 └── sample.html    <-- Generated Output
+```
 
 ## 🧰 Tech Stack
 
