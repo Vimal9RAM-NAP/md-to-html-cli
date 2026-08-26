@@ -1,12 +1,21 @@
 {
-  "name": "md-to-html-cli",
+  "name": "md-to-html-cli-tool",
   "version": "1.0.0",
-  "description": "",
+  "description": "A lightweight CLI tool to convert Markdown files into styled HTML documents.",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "bin": {
+    "md2html": "./index.js"
   },
-  "keywords": [],
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "markdown",
+    "html",
+    "cli",
+    "converter",
+    "nodejs"
+  ],
   "author": "",
   "license": "ISC",
   "dependencies": {
