@@ -3,7 +3,7 @@
 A fast, lightweight Node.js command-line interface (CLI) tool that converts local Markdown (`.md`) files into standalone, cleanly styled HTML documents.
 [![npm version](https://img.shields.io/npm/v/md-to-html-cli-vimal.svg)](https://www.npmjs.com/package/md-to-html-cli-vimal)
 [![npm downloads](https://img.shields.io/npm/dm/md-to-html-cli-vimal.svg)](https://www.npmjs.com/package/md-to-html-cli-vimal)
-
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ## 🚀 Quick Run (No Installation Required)
 
 You can run this CLI tool directly using `npx`:
