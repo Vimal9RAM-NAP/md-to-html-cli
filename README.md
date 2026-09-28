@@ -25,7 +25,7 @@ md-to-html-cli sample.md
 
 ## ✨ Features
 
-- **Instant Conversion:** Parse standard Markdown syntax into raw HTML elements seamlessly.
+- **Instant Conversion:** Parse standard Markdown syntax into raw `HTML` elements seamlessly.
 - **Pre-styled Output:** Automatically wraps generated HTML into a modern, responsive document template.
 - **CLI Executable:** Support for direct Node execution or local global installation via `npm link`.
 - **Fallback Support:** Automatically looks for `sample.md` if no explicit filename is provided.
@@ -70,7 +70,7 @@ If no filename is specified, it defaults to `sample.md`:
 node index.js
 ```
 
-### Option B: Global CLI Usage (npm link)
+### Option B: Global CLI Usage (`npm link`)
 
 To run the converter using the custom command md2html from anywhere in your terminal:
 
