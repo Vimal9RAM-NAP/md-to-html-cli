@@ -1,10 +1,11 @@
-# 📝 Markdown to HTML CLI Converter
+# Markdown to HTML CLI Converter
 
 A fast, lightweight Node.js command-line interface (CLI) tool that converts local Markdown (`.md`) files into standalone, cleanly styled HTML documents.
+
 [![npm version](https://img.shields.io/npm/v/md-to-html-cli-vimal.svg)](https://www.npmjs.com/package/md-to-html-cli-vimal)
 [![npm downloads](https://img.shields.io/npm/dm/md-to-html-cli-vimal.svg)](https://www.npmjs.com/package/md-to-html-cli-vimal)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-## 🚀 Quick Run (No Installation Required)
+##  Quick Run (No Installation Required)
 
 You can run this CLI tool directly using `npx`:
 
@@ -12,7 +13,7 @@ You can run this CLI tool directly using `npx`:
 npx md-to-html-cli-vimal sample.md
 ```
 
-## 📦 Global Installation
+##  Global Installation
 
 ```bash
 npm install -g md-to-html-cli-vimal
@@ -23,7 +24,7 @@ md-to-html-cli sample.md
 
 ---
 
-## ✨ Features
+##  Features
 
 - **Instant Conversion:** Parse standard Markdown syntax into raw `HTML` elements seamlessly.
 - **Pre-styled Output:** Automatically wraps generated HTML into a modern, responsive document template.
@@ -32,7 +33,7 @@ md-to-html-cli sample.md
 
 ---
 
-## 🛠️ Installation & Setup
+##  Installation & Setup
 
 ### Prerequisites
 
@@ -54,7 +55,7 @@ cd md-to-html-cli
 npm install
 ```
 
-## 🚀 Usage
+##  Usage
 
 ### Option A: Direct Node Execution
 
@@ -100,12 +101,12 @@ md-to-html-cli/
 └── sample.html    <-- Generated Output
 ```
 
-## 🧰 Tech Stack
+##  Tech Stack
 
 - **Node.js** — JavaScript runtime environment
 - **marked** — Markdown parser
 - **chalk** — Terminal string styling
 
-## 📄 License
+##  License
 
 This project is open-source and available under the `MIT License`
