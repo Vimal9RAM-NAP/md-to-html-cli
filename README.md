@@ -1,4 +1,4 @@
-# Markdown to HTML CLI Converter
+# MARKDOWN TO HTML CLI CONVERTER
 
 A fast, lightweight Node.js command-line interface (CLI) tool that converts local Markdown (`.md`) files into standalone, cleanly styled HTML documents.
 
